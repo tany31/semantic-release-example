@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/tany31/semantic-release-example/compare/v1.1.0...v1.1.1) (2023-06-26)
+
+
+### Performance Improvements
+
+* remove About page ([8346233](https://github.com/tany31/semantic-release-example/commit/83462331ddb8229c622abcf731539316836d3d68))
+
 # [1.1.0](https://github.com/tany31/semantic-release-example/compare/v1.0.0...v1.1.0) (2023-06-26)
 
 
