@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/tany31/semantic-release-example/compare/v1.1.1...v2.0.0) (2023-06-26)
+
+
+### Performance Improvements
+
+* remove Signin page ([2cf3c5d](https://github.com/tany31/semantic-release-example/commit/2cf3c5d01ecafda8cb2ce0eaf0d74e550dfcc647))
+
+
+### BREAKING CHANGES
+
+* remove Signin page
+
 ## [1.1.1](https://github.com/tany31/semantic-release-example/compare/v1.1.0...v1.1.1) (2023-06-26)
 
 
