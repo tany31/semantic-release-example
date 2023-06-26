@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/tany31/semantic-release-example/compare/v1.0.0...v1.1.0) (2023-06-26)
+
+
+### Bug Fixes
+
+* [#12](https://github.com/tany31/semantic-release-example/issues/12) route name typos ([9764cc7](https://github.com/tany31/semantic-release-example/commit/9764cc7fae3cf58a439594dec5281244fbc06572))
+
+
+### Features
+
+* add Sign in page ([ef0d173](https://github.com/tany31/semantic-release-example/commit/ef0d173180d547d5697556d80b5004054f2c732e))
+
 # 1.0.0 (2023-06-26)
 
 
